@@ -1,4 +1,4 @@
-sitepoint - Deploying a Node.js App to DigitalOcean - course
+Sitepoint - Deploying a Node.js App to DigitalOcean - course
 
 
 
